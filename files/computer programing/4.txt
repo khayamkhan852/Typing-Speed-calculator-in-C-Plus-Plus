@@ -1,0 +1,1 @@
+In a procedural program, one written in C for example, there are two kinds of data.Local data is hidden inside a function, and is used exclusively by the function. In the inventory program a display function might use local data to remember which item it was displaying. Local data is closely related to its function and is safe from modification by other functions.

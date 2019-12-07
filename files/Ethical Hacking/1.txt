@@ -1,0 +1,1 @@
+"Ethical Hacking, also known as penetration testing, intrusion testing, or red teaming, is the controversial act of locating weaknesses and vulnerabilities of computer and information systems by duplicating the intent and actions of malicious hackers.

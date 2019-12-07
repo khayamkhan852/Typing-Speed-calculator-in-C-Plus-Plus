@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1515353389 source:c:\users\khaya\desktop\opp project\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<ctime>
+	<windows.h>
+	"paragraphs.h"
+	"Welcome_screen.h"
+	"All_Record.h"
+
+1516550959 c:\users\khaya\desktop\opp project\paragraphs.h
+	<string.h>
+
+1514222382 c:\users\khaya\desktop\opp project\main_menu.h
+	<iostream>
+
+1514130829 c:\users\khaya\desktop\opp project\class_words_count.h
+	<string.h>
+
+1516559288 source:c:\users\khaya\desktop\opp project\paragraphs.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"paragraphs.h"
+
+1514126426 c:\users\khaya\desktop\opp project\welcome.h
+	<iostream>
+
+1516552659 c:\users\khaya\desktop\opp project\welcome_screen.h
+	<iostream>
+
+1515167566 source:c:\users\khaya\desktop\opp project\records.c
+
+1515169104 source:c:\users\khaya\desktop\opp project\records.cpp
+	"Records.h"
+	<string.h>
+	<iostream>
+
+1515176899 c:\users\khaya\desktop\opp project\records.h
+	<string.h>
+
+1515242546 c:\users\khaya\desktop\opp project\include\all_record.h
+	<string.h>
+	<fstream>
+
+1516552904 source:c:\users\khaya\desktop\opp project\src\all_record.cpp
+	"All_Record.h"
+	<iostream>
+	<fstream>
+
+1515178026 c:\users\khaya\desktop\opp project\include\paragraphs.h
+	<string.h>
+
+1515156295 c:\users\khaya\desktop\opp project\include\welcome_screen.h
+	<iostream>
+
+1515356989 source:e:\3rd all semister\oop lab\oop project\opp project\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<ctime>
+	<windows.h>
+	"paragraphs.h"
+	"Welcome_screen.h"
+	"All_Record.h"
+
+1525320850 e:\3rd all semister\oop lab\oop project\opp project\paragraphs.h
+	<string.h>
+
+1516556259 e:\3rd all semister\oop lab\oop project\opp project\welcome_screen.h
+	<iostream>
+
+1525321356 e:\3rd all semister\oop lab\oop project\opp project\include\all_record.h
+	<string.h>
+	<fstream>
+
+1520739430 source:e:\3rd all semister\oop lab\oop project\opp project\paragraphs.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"paragraphs.h"
+
+1519607375 source:e:\3rd all semister\oop lab\oop project\opp project\src\all_record.cpp
+	"All_Record.h"
+	<iostream>
+	<fstream>
+
+1515353389 source:d:\3th all semester\oop lab\oop project\opp project\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<ctime>
+	<windows.h>
+	"paragraphs.h"
+	"Welcome_screen.h"
+	"All_Record.h"
+
+1525317250 d:\3th all semester\oop lab\oop project\opp project\paragraphs.h
+	<string.h>
+
+1516552659 d:\3th all semester\oop lab\oop project\opp project\welcome_screen.h
+	<iostream>
+
+1525317756 d:\3th all semester\oop lab\oop project\opp project\include\all_record.h
+	<string.h>
+	<fstream>
+
+1520735830 source:d:\3th all semester\oop lab\oop project\opp project\paragraphs.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"paragraphs.h"
+
+1519603775 source:d:\3th all semester\oop lab\oop project\opp project\src\all_record.cpp
+	"All_Record.h"
+	<iostream>
+	<fstream>
+
